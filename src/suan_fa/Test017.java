@@ -37,14 +37,6 @@ public class Test017 {
                 new TreeNode(2,new TreeNode(0),new TreeNode(4)),
                 new TreeNode(7,new TreeNode(6),new TreeNode(9))
         );
-
-
-
-
-
     }
-
-
-
 
 }
